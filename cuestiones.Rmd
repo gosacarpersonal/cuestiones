@@ -1,0 +1,18 @@
+---
+title: "cuestiones"
+author: "Carlos Gómez"
+date: "2023-05-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Cuestiones Mix
+
+## Cuestion 1
+```{r}
+
+```
+
